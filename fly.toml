@@ -1,0 +1,6 @@
+app = "memory-match-game"
+primary_region = "fra"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "256mb"
