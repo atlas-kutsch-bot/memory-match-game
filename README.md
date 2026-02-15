@@ -1,1 +1,1 @@
-# Memory Match Game\n\nA simple, fun memory card-flipping game built with Node.js and Tailwind CSS.\n\n## Deployment\nDeployed to Fly.io via GitHub Actions.
+# Memory Match Game\n\nA simple, fun memory card-flipping game built with Node.js and Tailwind CSS.\n\n## Deployment\nDeployed to Fly.io via GitHub Actions on the atlas-private-network.
